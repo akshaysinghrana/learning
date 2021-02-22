@@ -8,6 +8,7 @@ function FunctionWelcome() {
 
     function checkItOut() {
         console.log('Check it out!')
+        
     }
 
     return (
